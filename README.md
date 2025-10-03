@@ -8,7 +8,7 @@ It was created as a class project to demonstrate basic web development skills, r
 ## Project Structure
 
 ```
-marquina_activewear_project/
+marquina_activewear_project
 │
 ├── index.html        # Home page
 ├── products.html     # Products listing page
@@ -57,4 +57,4 @@ Brand: *Marquina Activewear*
 
 ---
 
-© 2025 Marquina Activewear. All rights reserved.
+ 2025 Marquina Activewear. All rights reserved.
